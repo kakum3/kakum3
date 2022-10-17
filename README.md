@@ -7,9 +7,7 @@
 <p align="center">
   <a href="https://github.com/kakum3?tab=repositories"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
-<p align="center">
-  <a href="https://www.facebook.com/jesus.espartero.18"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+
 [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kakum3&layout=compact)]()
 <table><tr>
   <td><h4 align="center">Languages
