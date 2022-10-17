@@ -10,16 +10,7 @@
 <p align="center">
   <a href="https://www.facebook.com/jesus.espartero.18"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jes%C3%BAs-espartero-perales/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="kakum_3@hotmail.com" alt="Hotmail"><img width="32px" src="https://cdn-icons-png.flaticon.com/128/732/732223.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/kakum3"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://cdn-icons-png.flaticon.com/128/25/25657.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/esparterojesus/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/EsparteroJesus"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://cdn-icons-png.flaticon.com/128/4096/4096132.png"/></a>
-</p>
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kakum3&layout=compact)]()
 <table><tr>
   <td><h4 align="center">Languages
 
